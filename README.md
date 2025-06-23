@@ -1,2 +1,1 @@
-# spring_boot_project
-J2EE
+JDK26 (version used)
